@@ -1,0 +1,42 @@
+.heading{
+    background-color: rgb(124, 168, 194);
+    height: 60px;
+    padding-top: 12px;
+    font-weight: 800;
+}
+
+#objectInput{
+    width: 80%;
+    text-align: center;
+}
+
+.input{
+    background-color: rgb(255, 189, 127);
+    height: 125px;
+    width: 400px;
+    padding-top: 1px;
+    border-radius: 15px;
+}
+
+.detection{
+    background-color: rgb(255, 189, 127);
+    height: 590px;
+    width: 500px;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+
+canvas{
+    background-color: rgb(187, 119, 119);
+    box-shadow: 1px 1px 50px rgb(72, 19, 72);
+    border-radius: 15px;
+    margin-top: 200px;
+}
+
+.start{
+    width: 100px;
+}
+
+.status, .object{
+    width: 180px;
+}
